@@ -34,19 +34,19 @@
 ###
 
 <div align="left">
-  <a href="rianefz" target="_blank">
+  <a href="https://discord.com/channels/@me/833113804949815328" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="rianefmz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/rianeferreira" target="_blank">
+  <a href="https://www.linkedin.com/in/rianeferreira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/rianefm/rianefm/output/snake.svg" alt="Snake animation" />
 
 ###
