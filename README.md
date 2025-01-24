@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="200" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"  />
+<img align="left" height="183" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"  />
 
 ###
 
@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rianefm/rianefm/output/snake.svg" alt="Snake animation" />
+
 
 ###
